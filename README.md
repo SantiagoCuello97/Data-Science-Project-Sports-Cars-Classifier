@@ -1,7 +1,7 @@
-## Sports-Cars-Recognition
+# Sports Cars Classifier
 
 
-# Data
+## Data
 I used the following chrome extension to download the data from google images: FatKun Batch Download Image.
 
 Here is the link to the folders with the pictures and the two models trained:

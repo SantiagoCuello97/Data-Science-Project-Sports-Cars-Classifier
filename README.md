@@ -1,6 +1,6 @@
 # Sports Cars Classifier
 
-Data science project example using deep learning for image classification.
+Data science project using deep learning for image classification.
 
 ## Overview
 This is a data science project that demonstrates the use of deep learning for image classification. It is based on a [video](https://www.youtube.com/watch?v=vy-R4oUZaC8&t=1142s&ab_channel=KenJee) tutorial by [Ken jee](https://github.com/PlayingNumbers), where he builds a [ball classifier](https://github.com/PlayingNumbers/ball_image_classifier) that identifies balls from different sports with 94% accuracy. 

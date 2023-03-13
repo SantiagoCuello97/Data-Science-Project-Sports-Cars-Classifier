@@ -3,7 +3,7 @@
 Data science project using deep learning for image classification.
 
 ## Overview
-This is a data science project that demonstrates the use of deep learning for image classification. It is based on a [video](https://www.youtube.com/watch?v=vy-R4oUZaC8&t=1142s&ab_channel=KenJee) tutorial by [Ken jee](https://github.com/PlayingNumbers), where he builds a [ball classifier](https://github.com/PlayingNumbers/ball_image_classifier) that identifies balls from different sports with 94% accuracy. 
+This is a data science project that demonstrates the use of deep learning for image classification. It is based on a [video](https://www.youtube.com/watch?v=vy-R4oUZaC8&t=1142s&ab_channel=KenJee) tutorial by [Ken Jee](https://github.com/PlayingNumbers), where he builds a [ball classifier](https://github.com/PlayingNumbers/ball_image_classifier) that identifies balls from different sports with 94% accuracy. 
 
 The main idea was to replicate the project to learn and apply the basics of deep learning and use a different data set to see how well the model can be trained using more complex objets (sports cars in this case).  After using transfer learning on a Convolutional Neural Network (CNN) trained on resnet34 to classify sports cars based on their brand, I was able to get the model to predict the brand of the car with 94% accuracy.
 
